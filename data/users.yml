@@ -53,6 +53,7 @@ raymon:
   rir_handle: RVDM88-RIPE
   companies:
     - solcon
+    - raymon
 MarkS-:
   full_name: Mark Scholten
   country: nl
@@ -74,7 +75,9 @@ jappert:
     - newvm
 mv^:
   full_name: Martin de Vries
-  rir_handle: mv
+  rir_handle: MV
   country: nl
   companies:
     - signet
+    - proserve
+    - cloudvps
